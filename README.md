@@ -8,8 +8,6 @@
 
 **[github]👉https://github.com/XinChennn/allProjects**
 
-**[gitee]👉https://gitee.com/xinchennn/allProjects**
-
 **[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
 
 # SpringBoot+Vue 超市管理系统
